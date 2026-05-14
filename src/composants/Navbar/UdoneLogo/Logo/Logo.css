@@ -1,0 +1,9 @@
+section#logo {
+    width: 100%;
+    height: auto;
+}
+
+ section#logo img {
+    width: 170px;
+    height: 179px;
+ }

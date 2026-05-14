@@ -1,0 +1,9 @@
+section#pied {
+  width: 100%;
+  /* border: 1px solid gray; */
+}
+
+section#pied h1 {
+  font-size: 1.5em;
+  padding: 2rem;
+}

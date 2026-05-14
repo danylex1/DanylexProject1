@@ -1,0 +1,10 @@
+section#nomlogo {
+    width: 100%;
+    height: auto;
+}
+
+section#nomlogo h1 {
+  font-size: 1.5em;
+  margin: 0 auto;
+  padding: .5rem;
+}
