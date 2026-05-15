@@ -1,5 +1,6 @@
 // import { useState } from 'react'
-import Daniel_ALEXIS from '../../../assets/Daniel_ALEXIS.png'
+import Daniel from '../../../assets/Daniel.png'
+import ALEXIS from '../../../assets/ALEXIS.png'
 import './NomPrenom.css'
 
 function Nomprenom() {
@@ -10,7 +11,8 @@ function Nomprenom() {
 
       <section id="nomprenom">       
         
-        <img src={Daniel_ALEXIS} alt="Daniel ALEXIS" />
+        <img src={Daniel} alt="Daniel" />
+        <img src={ALEXIS} alt="ALEXIS" />
           
       </section>
 

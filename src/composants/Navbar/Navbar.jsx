@@ -10,7 +10,7 @@ function Navbar() {
   return (
     <>
     
-      <section id="navbar">        
+      <section id="navbar">       
 
         <UdoneLogo />
 
