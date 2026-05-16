@@ -1,15 +1,14 @@
-import { useState } from 'react'
+import React from 'react'
 import './Titrecategorie.css'
 
-function Titrecategorie() {
-  const [count, setCount] = useState(0)
+function Titrecategorie({titre}) {
 
   return (
     <>
      
       <section id="titrescategorie"> 
 
-        <h1>Titre catégorie</h1> 
+        <h1>{titre}</h1> 
                   
       </section>
       

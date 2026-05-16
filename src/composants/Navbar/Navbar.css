@@ -1,8 +1,12 @@
 section#navbar {
-  width: 100%;
+  width: 100vw;
   height: auto;
+  background-color: #f0f0f0;
   display: flex;
-  justify-content: space-between;
-  margin: 2% 0;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: #f0f0f0;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
   /* border: 1px solid gray; */
 }

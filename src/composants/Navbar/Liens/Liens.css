@@ -4,6 +4,7 @@ section#liens {
   font-family: Arial, Helvetica, sans-serif;
   order: 2;
   text-align: right;
+  padding: 1.5%;
 }
 
 section#liens ul {

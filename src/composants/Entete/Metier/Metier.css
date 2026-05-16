@@ -5,11 +5,11 @@ section#metier {
 
 
 section#metier h1 {
-  font-size: 2.2em;
+  font-size: 5em;
   font-weight: 800;
   letter-spacing: .5rem;
   padding: 2rem;
-  /* -webkit-text-fill-color: white; */
-  -webkit-text-stroke-color: black;
+  -webkit-text-fill-color: white; 
+  /* -webkit-text-stroke-color: black; */
   -webkit-text-stroke-width: 1px;
 }

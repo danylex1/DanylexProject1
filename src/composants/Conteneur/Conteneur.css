@@ -1,6 +1,5 @@
 section#conteneur {
-  width: 90vw;
+  width: 100vw;
   height: 100vh;
-  margin: 0 auto;
-  /* border: 1px solid gray; */
+  margin: 0;
 }

@@ -1,0 +1,38 @@
+
+/* SECTION OUVRANTE */
+section#ouvrante {
+  position: relative;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  width: 40%;
+  height: auto;
+  padding: 0;
+  margin: 0;
+  background-color: transparent;
+}
+/* Section ouvrante : div grand et petit */
+section#ouvrante div.grand {
+  width: 20%;
+  height: auto;
+  background-color: transparent;
+}
+section#ouvrante div.grand img#grandouvrante {
+  width: 100%;
+  height: auto;
+  background-color: transparent;
+}
+section#ouvrante div.petit {
+  position: absolute;
+  left: -10%;
+  top: 16%;
+  width: 50%;
+  height: auto;
+  z-index: 5;
+  background-color: transparent;
+}
+section#ouvrante div.petit img#petitouvrante {
+  width: 25%;
+  height: auto;
+  background-color: transparent;
+}

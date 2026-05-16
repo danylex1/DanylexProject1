@@ -1,5 +1,5 @@
 section#profil {
-  width: 100%;
+  width: 90vw;
   height: 99vh;
   display: flex;
   flex-direction: column;
@@ -7,8 +7,9 @@ section#profil {
   align-items: center;
   border: 1px solid rgba(255, 255, 255, 0.2);
   background-color: rgba(236, 203, 12, 0.1);
-  margin: 0;
+  margin: 0 auto;
   border-radius: 2em;
+  border: 1px solid rgba(255, 255, 255, 0.2);
 }
 
 section#profil h1 {

@@ -1,0 +1,36 @@
+/* SECTION FERMANTE */
+section#fermant {
+  position: relative;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  width: 40%;
+  height: auto;
+  background-color: transparent;
+} 
+/* Section fermante : div grand et petit */
+section#fermant div.grand {
+  width: 20%;
+  height: auto;
+  background-color: transparent;
+}
+section#fermant div.grand img#grandfermant {
+  width: 100%;
+  height: auto;
+  background-color: transparent;
+}
+section#fermant div.petit {
+  position: absolute;
+  right: -10%;
+  top: 16%;
+  z-index: 5;
+  width: 50%;
+  height: auto;
+  background-color: transparent;
+}
+
+section#fermant div.petit img#petitfermant {
+  width: 25%;
+  height: auto;
+  background-color: transparent;
+}

@@ -1,0 +1,8 @@
+section#titrescategorie {
+  width: 100%; 
+}
+
+section#titrescategorie h1 {
+  font-size: 1.5em;
+  padding: 2rem;
+}

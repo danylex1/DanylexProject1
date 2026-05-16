@@ -1,5 +1,5 @@
 // import { useState } from 'react'
-{/*import reactLogo from './assets/react.svg'*/}
+import Contact from '../Contact/Contact'
 import './Pied.css'
 
 function Pied() {
@@ -9,11 +9,9 @@ function Pied() {
     <>
       <section id="pied">  
 
-        <h1>Pied</h1>
+        <h1>UDOne</h1>
 
-        <p>Contenu du pied de page...</p>
-
-        {/*<img src={heroImg} className="base" width="170" height="179" alt="" /> */}
+        <Contact />
           
       </section>
 
